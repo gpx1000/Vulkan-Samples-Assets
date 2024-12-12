@@ -28,3 +28,7 @@ Sponza and vokselia model downloaded from Morgan McGuire's [Computer Graphics Ar
 ## Additional assets
 
 Fonts downloaded from [Google Fonts](https://fonts.google.com), under license [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+## Videos
+
+- Holochip640x480 is a mp4 h264 video file suitable for Vulkan Video sample.  It is licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
